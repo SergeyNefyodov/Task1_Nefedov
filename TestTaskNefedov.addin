@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>TestTaskNefedov</Name>
+        <Assembly>TestTaskNefedov/TestTaskNefedov.dll</Assembly>
+        <AddInId>041856D5-BCD2-4F89-AC46-56D341053866</AddInId>
+        <FullClassName>TestTaskNefedov.Commands.Command</FullClassName>
+        <Text>TestTaskNefedov</Text>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+</RevitAddIns>
